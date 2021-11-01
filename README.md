@@ -1,4 +1,4 @@
-#Moview-ETL
+#   Moview-ETL
 ## Overview of the analysis
 This project applied ETL (extract, transform, load) process to add the cleaned data to a PostgreSQL database for Amazing Prime - movies and TV shows online platform.
 ### The purpose 
